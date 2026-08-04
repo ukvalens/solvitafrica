@@ -1,0 +1,12 @@
+n1=input("enter first number:")
+n2=input("enter second number:")
+num1=int(n1)
+num2=int(n2)
+sum=num1+num2
+print("sum of two numbers =:",sum)
+difference=num1-num2
+print("difference of two numbers =:",difference)
+product=num1*num2
+print("product of two numbers =:",product)
+quotient=num1/num2
+print("quotient of two numbers =:",quotient)
