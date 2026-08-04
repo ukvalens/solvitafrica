@@ -1,9 +1,0 @@
-student_score=[90, 60,80, 70, 50, ]
-max_mark=max(student_score)
-print("The highest score =",max_mark)
-min_mark=min(student_score)
-print("The lowest score =",min_mark)
-sum_mark=sum(student_score)
-print("The total score =",sum_mark)
-average_score=sum_mark/len(student_score)
-print("The average score =",average_score)
